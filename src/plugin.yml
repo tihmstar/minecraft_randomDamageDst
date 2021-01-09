@@ -1,0 +1,5 @@
+name: randomDamageDst
+version: 1.0
+author: tihmstar
+main: net.tihmstar.randomDamageDst.Main
+api-version: 1.16
